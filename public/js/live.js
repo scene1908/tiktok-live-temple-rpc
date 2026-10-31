@@ -404,8 +404,8 @@
     } else {
       liveDot.classList.remove('connected');
       liveText.textContent = st.settings?.autoSim
-        ? 'CHÙA LINH ỨNG • TỰ ĐỘNG GIẢ LẬP ĐÔNG NGƯỜI'
-        : 'CHÙA LINH ỨNG • ĐỨC PHẬT A DI ĐÀ';
+        ? 'TÂM AN TỰ • TỰ ĐỘNG GIẢ LẬP ĐÔNG NGƯỜI'
+        : 'TÂM AN TỰ • ĐỨC PHẬT A DI ĐÀ';
     }
 
     const btnAutoSim = document.getElementById('btnToggleAutoSim');
